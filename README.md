@@ -1,0 +1,2 @@
+# MyDaily
+Ray's daily.
